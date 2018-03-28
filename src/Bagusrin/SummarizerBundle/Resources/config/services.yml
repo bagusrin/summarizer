@@ -1,0 +1,3 @@
+services:
+    bagusrin.summarizer.manager:
+        class: Bagusrin\SummarizerBundle\Manager\SummarizerManager
