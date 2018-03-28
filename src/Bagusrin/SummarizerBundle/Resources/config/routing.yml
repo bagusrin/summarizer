@@ -1,9 +1,9 @@
-vortexgin_summarizer_analyze:
+bagusrin_summarizer_analyze:
     path:     /analyze
     defaults: { _controller: BagusrinSummarizerBundle:Default:analyze }
     requirements:
         _method: POST
-vortexgin_summarizer_analyze_url:
+bagusrin_summarizer_analyze_url:
     path:     /analyzeUrl
     defaults: { _controller: BagusrinSummarizerBundle:Default:analyzeUrl }
     requirements:
