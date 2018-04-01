@@ -1,7 +1,7 @@
 {
     "name": "bagusrin/summarizer",
-    "license": "GPL v3",
-    "type": "3rd party",
+    "license": "GPL-3.0-only",
+    "type": "Library",
     "description": "Sentences summarizer using python lib SUMY",
     "autoload": {
         "psr-4": {

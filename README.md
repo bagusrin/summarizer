@@ -6,7 +6,7 @@ Summarizer is a simple PHP Library to summarize word sentence in Indonesian Lang
 Summarizer dapat diinstall dengan [Composer](https://getcomposer.org/).
 
 ``
-php composer.phar require bagusrin/summarizer:1.*
+composer require bagusrin/summarizer:1.*
 ``
 
 Jika Anda masih belum memahami bagaimana cara menggunakan Composer, silahkan baca [Getting Started with Composer](https://getcomposer.org/doc/00-intro.md).
